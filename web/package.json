@@ -1,0 +1,27 @@
+{
+  "name": "own_riot",
+  "version": "1.0.0",
+  "description": "One World",
+  "main": "own.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjurnie/own_riot.git"
+  },
+  "keywords": [
+    "bid",
+    "my",
+    "service"
+  ],
+  "author": "Roman Yaker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benjurnie/own_riot/issues"
+  },
+  "homepage": "https://github.com/benjurnie/own_riot#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
